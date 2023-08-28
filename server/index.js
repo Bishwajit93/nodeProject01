@@ -9,7 +9,7 @@ const port = 5000
 
 // Middleware //
 app.use(cors())
-app.use(express.json()) //rew.body
+app.use(express.json()) //raw.body
 
 
 // Routes //
